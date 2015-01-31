@@ -5,6 +5,8 @@ Anfangs nur zu Dokumentationszwecken ließ 0x0a (Gregor Weichbrodt und Hannes Ba
 
 ![Comments per Day](https://raw.githubusercontent.com/balzer82/PegidaSprache/master/Comments-per-Day.png)
 
+![Comments about](https://raw.githubusercontent.com/balzer82/PegidaSprache/master/WordFreq.png)
+
 ### See [AnalyzePegidaKorpus IPython Notebook](http://nbviewer.ipython.org/github/balzer82/PegidaSprache/blob/master/AnalyzePegidaKorpus.ipynb)
 
 DataSource: [Die Sprache Pegidas](http://0x0a.li/de/die-sprache-pegidas/)
